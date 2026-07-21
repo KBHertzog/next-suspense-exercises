@@ -1,6 +1,5 @@
 export async function getComments() {
   await delay(2500);
-
   return COMMENTS;
 }
 
